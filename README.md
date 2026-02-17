@@ -93,3 +93,9 @@ Created TotalPrice = Quantity × UnitPrice
 ## Outcome
 
 This project demonstrates scalable data processing and business analytics using PySpark on Databricks, converting raw retail transactions into actionable insights.
+
+
+### Due to size limitations, the dataset is hosted externally.
+
+Download link:
+https://drive.google.com/file/d/1CCx-MX1iuALx0fVrsTji9DmTwzI879oq/view?usp=sharing
