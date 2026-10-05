@@ -1,20 +1,16 @@
-# Online Retail Analysis – Databricks (PySpark)
+# Online Retail Analysis (PySpark)
 
 ## Overview
 
-This project performs large-scale transactional data analysis on an Online Retail dataset using PySpark on Databricks.
+This project performs large-scale transactional data analysis on an Online Retail dataset using PySpark.
 
 The objective is to clean raw retail data, handle inconsistencies, and extract business insights such as top-selling products, revenue distribution, cancellation trends, and country-wise sales performance.
 
 ## Tech Stack
 
-Platform: Databricks Workspace
-
 Engine: Apache Spark (PySpark)
 
 Language: Python
-
-Data Storage: Databricks Catalog
 
 Dataset: Online Retail transactional dataset
 
@@ -92,7 +88,7 @@ Created TotalPrice = Quantity × UnitPrice
 
 ## Outcome
 
-This project demonstrates scalable data processing and business analytics using PySpark on Databricks, converting raw retail transactions into actionable insights.
+This project demonstrates scalable data processing and business analytics using PySpark, converting raw retail transactions into actionable insights.
 
 
 ### Due to size limitations, the dataset is hosted externally.
